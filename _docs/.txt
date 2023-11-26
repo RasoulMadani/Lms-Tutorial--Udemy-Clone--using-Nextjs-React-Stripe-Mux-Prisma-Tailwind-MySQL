@@ -17,3 +17,5 @@ pnpm add @clerk/nextjs
 
 https://clerk.com/docs/components/authentication/sign-in
 https://clerk.com/docs/components/authentication/sign-up
+
+https://logoipsum.com/
