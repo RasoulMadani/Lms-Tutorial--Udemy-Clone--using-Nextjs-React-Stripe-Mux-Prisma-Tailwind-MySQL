@@ -1,0 +1,10 @@
+Milads-MacBook-Pro:nextjs-projects safeAllah$ npx create-next-app@13.4.12 lms-tutorial --typescript --tailwind --eslint
+Need to install the following packages:
+  create-next-app@13.4.12
+Ok to proceed? (y) y
+✔ Would you like to use `src/` directory? … No / Yes
+✔ Would you like to use App Router? (recommended) … No / Yes
+✔ Would you like to customize the default import alias? … No / Yes
+Creating a new Next.js app in /Users/safeAllah/Documents/nextjs-projects/lms-tutorial.
+
+Using npm.
