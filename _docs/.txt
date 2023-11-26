@@ -11,3 +11,9 @@ Using npm.
 
 
 npx shadcn-ui@latest init
+
+
+pnpm add @clerk/nextjs
+
+https://clerk.com/docs/components/authentication/sign-in
+https://clerk.com/docs/components/authentication/sign-up
