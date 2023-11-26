@@ -8,3 +8,6 @@ Ok to proceed? (y) y
 Creating a new Next.js app in /Users/safeAllah/Documents/nextjs-projects/lms-tutorial.
 
 Using npm.
+
+
+npx shadcn-ui@latest init
