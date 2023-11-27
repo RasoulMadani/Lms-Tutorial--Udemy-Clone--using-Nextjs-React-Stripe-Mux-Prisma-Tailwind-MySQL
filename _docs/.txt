@@ -21,3 +21,9 @@ https://clerk.com/docs/components/authentication/sign-up
 https://logoipsum.com/
 
 pnpm dlx shadcn-ui@latest add sheet
+
+pnpm dlx shadcn-ui@latest add form
+
+pnpm dlx shadcn-ui@latest add input
+
+pnpm add axios
