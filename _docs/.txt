@@ -27,3 +27,5 @@ pnpm dlx shadcn-ui@latest add form
 pnpm dlx shadcn-ui@latest add input
 
 pnpm add axios
+
+pnpm add react-hot-toast
