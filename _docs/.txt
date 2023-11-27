@@ -29,3 +29,7 @@ pnpm dlx shadcn-ui@latest add input
 pnpm add axios
 
 pnpm add react-hot-toast
+
+
+pnpm add -D prisma
+pnpm dlx prisma init
