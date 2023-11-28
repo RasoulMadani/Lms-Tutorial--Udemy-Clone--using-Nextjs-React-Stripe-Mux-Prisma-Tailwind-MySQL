@@ -33,3 +33,13 @@ pnpm add react-hot-toast
 
 pnpm add -D prisma
 pnpm dlx prisma init
+
+pnpm add @prisma/client
+
+pnpm add @prisma/client
+
+بعد از نوشتن تنظیمات پریزما باید این دستورات را بزنیم
+npx prisma generate
+در پایان این را می زنیم تا پایگاه داده ساخته شود
+npx prisma db push
+
