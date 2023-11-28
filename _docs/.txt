@@ -43,3 +43,5 @@ npx prisma generate
 در پایان این را می زنیم تا پایگاه داده ساخته شود
 npx prisma db push
 
+مثل پی اچ پی مای ادمین
+npx prisma studio
